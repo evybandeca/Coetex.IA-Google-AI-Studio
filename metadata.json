@@ -1,0 +1,7 @@
+{
+  "name": "Cortex.IA",
+  "description": "A specialized medical study environment combining organization, Spaced Repetition, and AI-powered assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
